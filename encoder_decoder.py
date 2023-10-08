@@ -28,7 +28,7 @@ def encoder_decoder(comm, fi):
 
 
 # Enter the preferred directory you want to save your file in quotation marks
-file = 'Q:\\27.5.2023_BackUp_Downloads\\log.txt'
+file = 'Q:\\my_directory\\log.txt'
 # The command options are encode/decode
 command = str(input("Enter the command you would like to execute:"))
 encoder_decoder(command, file)
